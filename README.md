@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kavyapriya</h1>
+<h1 align="center">Hi 👋, I'm Kavyapriya</h1><a href="https://dev.to/kavyapriyakp">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kavyapriya R's DEV Profile" height="30" width="30">
+</a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
