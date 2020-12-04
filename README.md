@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kavyapriya</h1><a href="https://dev.to/kavyapriyakp">
+<h1 align="center">Hi 👋, I'm Kavyapriya<a href="https://dev.to/kavyapriyakp">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kavyapriya R's DEV Profile" height="30" width="30">
-</a>
+</a></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kavyapriyakp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kavyapriyakp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavyapriyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kavyapriyar" height="30" width="40" /></a>
 <a href="https://medium.com/@kavyapriyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kavyapriyar" height="30" width="40" /></a>
 </p>
