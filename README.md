@@ -6,8 +6,8 @@
 <h3 align="center">A passionate front end dev from India.</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyapriyakp&show_icons=true&locale=en&layout=compact" alt="kavyapriyakp" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyapriyakp&theme=blue-green" alt="kavyapriyakp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavyapriyakp" alt="kavyapriyakp" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavyapriyakp" alt="kavyapriyakp" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kavyapriyakp&theme=blue-green" alt="kavyapriyakp" /></p>
 
